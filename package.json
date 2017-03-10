@@ -1,0 +1,19 @@
+{
+  "name": "lc-decode-base64",
+  "version": "1.0.0",
+  "description": "A small library for decode base64 string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elantion/decodeBase64.git"
+  },
+  "author": "JamesYin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elantion/decodeBase64/issues"
+  },
+  "homepage": "https://github.com/elantion/decodeBase64#readme"
+}
