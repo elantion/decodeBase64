@@ -8,12 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elantion/decodeBase64.git"
+    "url": "git+https://github.com/lazycoffee/lc-decode-base64.git"
   },
   "author": "JamesYin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/elantion/decodeBase64/issues"
+    "url": "https://github.com/lazycoffee/lc-decode-base64/issues"
   },
-  "homepage": "https://github.com/elantion/decodeBase64#readme"
+  "homepage": "https://github.com/lazycoffee/lc-decode-base64#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
 }
