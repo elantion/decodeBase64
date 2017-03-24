@@ -1,6 +1,6 @@
 {
   "name": "lc-decode-base64",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small library for decode base64 string",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/lazycoffee/lc-decode-base64#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+    "registry": "http://registry.npmjs.org"
   }
 }
